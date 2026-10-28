@@ -40,7 +40,7 @@ The values are rounded and the orbits idealised; see the README's section on the
 
 Planet symbols (☿ ♀ ⊕ ♂ ♃ ♄ ♅ ♆ ♇ ☉) are standard Unicode characters drawn with the viewer's system fonts.
 
-Any future licence for this repository's own code doesn't change the licences of these components.
+The GPL licence of this repository's own code doesn't change the licences of these components.
 
 ## Licences and notices in the historical sketches
 
