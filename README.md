@@ -150,7 +150,7 @@ Three plain scripts share one global namespace, `window.DOP`:
 - **Simplified astronomy:** circular, coplanar orbits and rounded data.
 - **Long cycles** (for example Mercury–Pluto, roughly 1029 : 1) hit the 150,000-line budget, which lowers the available Detail. SVGs of dense drawings are large.
 - **Network:** p5.js and the fonts come from CDNs, so the page doesn't work offline as shipped.
-- **Leftovers from the original site:** the "← Form follows f(x)" link points to the parent folder (`../`), and the page title ends in "— Form follows f(x)". A few source comments refer to a design document (`DANCE-OF-PLANETS.md`) that isn't part of this repository.
+- **Form follows f(x):** the "← Form follows f(x)" link goes to the FFFX site (`fffx.cabinetofcuriosities.in`), where the tool is meant to be found, and the page title ends in "— Form follows f(x)". A few source comments refer to a design document (`DANCE-OF-PLANETS.md`) that isn't part of this repository.
 
 ## Licence and terms
 
