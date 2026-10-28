@@ -40,4 +40,4 @@ In a Chromium smoke test on 28 October 2026, every `run.html` loaded its librari
 
 ## Notices
 
-Each original `index.html` ends with the author's notice: *"Code is copyright by Jesal Mehta, 15/01/2021. The output of this program is free to use for non-commercial purposes (for your plotters, laser engravers etc). Contact me if you need a different license."* These historical files remain under that notice. The open-source licence intended for the current tool doesn't cover them. The date in the notice is repeated across versions made at different times and doesn't date any single sketch.
+Each original `index.html` ends with the author's notice: *"Code is copyright by Jesal Mehta, 15/01/2021. The output of this program is free to use for non-commercial purposes (for your plotters, laser engravers etc). Contact me if you need a different license."* These historical files remain under that notice. The GPL-3.0 licence of the current tool doesn't cover them. The date in the notice is repeated across versions made at different times and doesn't date any single sketch.
