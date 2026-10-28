@@ -10,7 +10,7 @@ The page is meant both for exploring the orbital relationships and for making th
 
 *Dance of Planets v3.0, desktop layout: the Earth & Venus preset after one full 8-year cycle, Lines style, default detail and opacity. The "← Form follows f(x)" link and the page title come from the site the tool was first built for.*
 
-There is no public hosted demo yet. To try it, run it locally (below).
+Try it online at <https://fffx.cabinetofcuriosities.in/dance-of-planets/>, or run it locally (below).
 
 - [Development history](HISTORY.md): from the hand-coded 2021 Dance of Venus sketches to the current page
 - [Credits](CREDITS.md): authorship, AI assistance, data sources and dependencies
